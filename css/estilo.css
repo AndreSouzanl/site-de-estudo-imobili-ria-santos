@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Aqui todos estilos globais*/
+.secao{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.secao--paragrafo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 980px;
+    text-align: justify;
+
+}
+
+/*Aqui estilizamos a primeira seçao*/
+
+.primeira-secao{
+    background-color: #afddfb;
+}
+
+.primeira-secao--imagem{
+
+  width: 150px;
+}
+
+.primeira-secao--paragrafo{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center
+}
+
+.primeira-secao--link{
+
+    font-size:18px;
+    color: #1d1d1d;
+    border-bottom:2px solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 10px;
+}
+
+/*Estilo da segunda secao*/
+
+.segunda-secao{
+    margin-top: 50px;
+    padding: 0;
+}
+
+/*terceira secao*/
+.terceira-secao--titulo{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.terceira-secao--subtitulo{
+    color: #1c81c0;
+    margin-bottom: 15px;
+}
+.terceira-secao--imagem{
+    width: 450px;
+}
+
+.texto-destaque{
+    color:#1c81c0;
+    font-weight: bold;
+}
+
+.servicos-destaque{
+    color:#fff81b;
+}
+/*Estilo da quarta secao*/
+.quarta-secao{
+    background-color: #1c81c0;
+}
+
+.quarta-secao--subtitulo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 42px;
+
+}
+
+.quarta-secao--paragrafo{
+    color: #fff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.quarta-secao--lista{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 135px;
+}
+
+.quarta-secao--item{
+    color: #fff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/*Estilo da quinta secao*/
+
+.quinta-secao--subtitulo{
+    color: #1c81c0;
+    margin-bottom: 15px;
+    font-size: 28px;
+    line-height: 42px;
+
+}
+
+.quinta-secao--imagem{
+    width: 450px;
+}
+
+/*Estilo da sexta seçao*/
+
+.sexta-secao{
+    background-color: #1c81c0;
+}
+
+.sexta-secao--subtitulo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 42px;
+
+}
+
+.sexta-secao--paragrafo{
+    color: #fff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.sexta-secao--lista{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    list-style: none;
+}
+
+.sexta-secao--item{
+    margin-top: 15px;
+    font-size: 18px;
+    text-align:center;
+    
+}
+
+.sexta-secao--link{
+    background-color: #fff;
+    color: #1c81c0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
